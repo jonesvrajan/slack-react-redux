@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slack-react-redux/static/css/main.d1b05096.chunk.css",
+    "main.js": "/slack-react-redux/static/js/main.f12cc567.chunk.js",
+    "main.js.map": "/slack-react-redux/static/js/main.f12cc567.chunk.js.map",
+    "runtime-main.js": "/slack-react-redux/static/js/runtime-main.71c3fac7.js",
+    "runtime-main.js.map": "/slack-react-redux/static/js/runtime-main.71c3fac7.js.map",
+    "static/js/2.a53f24fe.chunk.js": "/slack-react-redux/static/js/2.a53f24fe.chunk.js",
+    "static/js/2.a53f24fe.chunk.js.map": "/slack-react-redux/static/js/2.a53f24fe.chunk.js.map",
+    "index.html": "/slack-react-redux/index.html",
+    "precache-manifest.9aca62feab55dd2fdcd1b8c643eae625.js": "/slack-react-redux/precache-manifest.9aca62feab55dd2fdcd1b8c643eae625.js",
+    "service-worker.js": "/slack-react-redux/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/slack-react-redux/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a53f24fe.chunk.js.LICENSE": "/slack-react-redux/static/js/2.a53f24fe.chunk.js.LICENSE",
+    "static/media/logo.svg": "/slack-react-redux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c3fac7.js",
+    "static/js/2.a53f24fe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f12cc567.chunk.js"
+  ]
+}
