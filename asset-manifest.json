@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/slack-react-redux/static/css/main.0daa20ab.chunk.css",
-    "main.js": "/slack-react-redux/static/js/main.f23a7a49.chunk.js",
-    "main.js.map": "/slack-react-redux/static/js/main.f23a7a49.chunk.js.map",
+    "main.css": "/slack-react-redux/static/css/main.825fbc73.chunk.css",
+    "main.js": "/slack-react-redux/static/js/main.fac909b3.chunk.js",
+    "main.js.map": "/slack-react-redux/static/js/main.fac909b3.chunk.js.map",
     "runtime-main.js": "/slack-react-redux/static/js/runtime-main.71c3fac7.js",
     "runtime-main.js.map": "/slack-react-redux/static/js/runtime-main.71c3fac7.js.map",
-    "static/js/2.450678c8.chunk.js": "/slack-react-redux/static/js/2.450678c8.chunk.js",
-    "static/js/2.450678c8.chunk.js.map": "/slack-react-redux/static/js/2.450678c8.chunk.js.map",
+    "static/js/2.8bf40166.chunk.js": "/slack-react-redux/static/js/2.8bf40166.chunk.js",
+    "static/js/2.8bf40166.chunk.js.map": "/slack-react-redux/static/js/2.8bf40166.chunk.js.map",
     "index.html": "/slack-react-redux/index.html",
-    "precache-manifest.4cffd6d64eae1f83fad8ad63ae2a8a31.js": "/slack-react-redux/precache-manifest.4cffd6d64eae1f83fad8ad63ae2a8a31.js",
+    "precache-manifest.08266d320db269ef0753375290d0886f.js": "/slack-react-redux/precache-manifest.08266d320db269ef0753375290d0886f.js",
     "service-worker.js": "/slack-react-redux/service-worker.js",
-    "static/css/main.0daa20ab.chunk.css.map": "/slack-react-redux/static/css/main.0daa20ab.chunk.css.map",
-    "static/js/2.450678c8.chunk.js.LICENSE": "/slack-react-redux/static/js/2.450678c8.chunk.js.LICENSE",
+    "static/css/main.825fbc73.chunk.css.map": "/slack-react-redux/static/css/main.825fbc73.chunk.css.map",
+    "static/js/2.8bf40166.chunk.js.LICENSE": "/slack-react-redux/static/js/2.8bf40166.chunk.js.LICENSE",
     "static/media/styles.scss": "/slack-react-redux/static/media/fa-solid-900.f6121be5.woff2",
     "static/media/slack_logo.svg": "/slack-react-redux/static/media/slack_logo.ebd02d1d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.71c3fac7.js",
-    "static/js/2.450678c8.chunk.js",
-    "static/css/main.0daa20ab.chunk.css",
-    "static/js/main.f23a7a49.chunk.js"
+    "static/js/2.8bf40166.chunk.js",
+    "static/css/main.825fbc73.chunk.css",
+    "static/js/main.fac909b3.chunk.js"
   ]
 }
