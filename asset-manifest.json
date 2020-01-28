@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/slack-react-redux/static/css/main.825fbc73.chunk.css",
-    "main.js": "/slack-react-redux/static/js/main.3d3aa7b0.chunk.js",
-    "main.js.map": "/slack-react-redux/static/js/main.3d3aa7b0.chunk.js.map",
+    "main.js": "/slack-react-redux/static/js/main.0fc829f0.chunk.js",
+    "main.js.map": "/slack-react-redux/static/js/main.0fc829f0.chunk.js.map",
     "runtime-main.js": "/slack-react-redux/static/js/runtime-main.71c3fac7.js",
     "runtime-main.js.map": "/slack-react-redux/static/js/runtime-main.71c3fac7.js.map",
-    "static/js/2.fddd5809.chunk.js": "/slack-react-redux/static/js/2.fddd5809.chunk.js",
-    "static/js/2.fddd5809.chunk.js.map": "/slack-react-redux/static/js/2.fddd5809.chunk.js.map",
+    "static/js/2.582c7d2f.chunk.js": "/slack-react-redux/static/js/2.582c7d2f.chunk.js",
+    "static/js/2.582c7d2f.chunk.js.map": "/slack-react-redux/static/js/2.582c7d2f.chunk.js.map",
     "index.html": "/slack-react-redux/index.html",
-    "precache-manifest.2657cbd5b641e973cd15140d4113ff5f.js": "/slack-react-redux/precache-manifest.2657cbd5b641e973cd15140d4113ff5f.js",
+    "precache-manifest.01b998c212e55ada649edbefe78d286e.js": "/slack-react-redux/precache-manifest.01b998c212e55ada649edbefe78d286e.js",
     "service-worker.js": "/slack-react-redux/service-worker.js",
     "static/css/main.825fbc73.chunk.css.map": "/slack-react-redux/static/css/main.825fbc73.chunk.css.map",
-    "static/js/2.fddd5809.chunk.js.LICENSE": "/slack-react-redux/static/js/2.fddd5809.chunk.js.LICENSE",
+    "static/js/2.582c7d2f.chunk.js.LICENSE": "/slack-react-redux/static/js/2.582c7d2f.chunk.js.LICENSE",
     "static/media/styles.scss": "/slack-react-redux/static/media/fa-solid-900.f6121be5.woff2",
     "static/media/slack_logo.svg": "/slack-react-redux/static/media/slack_logo.ebd02d1d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.71c3fac7.js",
-    "static/js/2.fddd5809.chunk.js",
+    "static/js/2.582c7d2f.chunk.js",
     "static/css/main.825fbc73.chunk.css",
-    "static/js/main.3d3aa7b0.chunk.js"
+    "static/js/main.0fc829f0.chunk.js"
   ]
 }
