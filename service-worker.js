@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/slack-react-redux/precache-manifest.af0ff3fd789558ad1c497fb17fdf0114.js"
+  "/slack-react-redux/precache-manifest.ea5ab8a3d07c87c1061a1c1c34abda13.js"
 );
 
 self.addEventListener('message', (event) => {
